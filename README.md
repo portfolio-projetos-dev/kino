@@ -2,9 +2,10 @@
 
 Kino é uma aplicação para exibir filmes e autores favoritos. Permite explorar detalhes dos filmes e informações sobre diretores e autores de forma intuitiva.
 
-<img src="${Kino.src}" alt="Tela inicial" height="200px">
-<img src="${Kino2.src}" alt="Tela inicial" height="200px">
-<img src="${Kino3.src}" alt="Tela inicial" height="200px">
+![Tela inicial](.git-assets/Kino.png)
+![Tela inicial](.git-assets/Kino2.png)
+![Tela inicial](.git-assets/Kino3.png)
+
  
 ## 🤔 O que é este projeto
  
