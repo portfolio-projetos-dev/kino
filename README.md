@@ -1,26 +1,42 @@
-# kino
+# 🎬 Kino
 
-Kino é uma aplicação para exibir filmes e autores favoritos. Permite explorar detalhes dos filmes e informações sobre diretores e autores de forma intuitiva.
+<div style="text-align: center;">
+   <img src="./.gitassets/capa.png" style="max-width: 200px; margin: 0 auto;" />
 
-![Tela inicial](.gitassets/1.png)
-![Tela inicial](.gitassets/2.png)
-![Tela inicial](.gitassets/3.png)
+   <div style="display: flex; gap: 8px; justify-content: center; margin: 10px 0;">
+      <img src="https://img.shields.io/github/stars/portfolio-projetos-dev/kino?style=for-the-badge" alt="GitHub stars" />
+      <img src="https://img.shields.io/github/forks/portfolio-projetos-dev/kino?style=for-the-badge" alt="GitHub forks" />
+      <img src="https://img.shields.io/github/issues/portfolio-projetos-dev/kino?style=for-the-badge" alt="GitHub issues" />
+   </div>
 
-## 🤔 O que é este projeto
+   <div style="display: flex; gap: 8px; justify-content: center; margin: 10px 0;">
+      <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+   </div>
+</div>
 
-Kino é uma plataforma desenvolvida para exibir filmes e autores favoritos. A aplicação permite que os usuários explorem detalhes completos de cada filme, conheçam informações sobre diretores e autores e obtenham recomendações personalizadas.
+Kino é uma plataforma desenvolvida para exibir os últimos filmes lançados no mercado. A aplicação permite que os usuários visualizem e naveguem pelos últimos lançamentos permitindo que os cinéfilos de plantão possam estar sempre atualizados com os lançamentos mais recentes e descobrir novos filmes para assistir.
 
-## 🖥️ Como rodar este projeto
+A aplicação oferece uma navegação intuitiva e moderna, permitindo que os usuários explorem facilmente os últimos filmes lançados, garantindo que nenhum lançamento importante passe despercebido. Além de descobrir novos filmes, a aplicação também permite que os usuários se aprofundem no universo de cada filme através dos detalhes técnicos completos, informações sobre o elenco e fichas técnicas que proporcionam uma experiência informativa.
 
-**Requisitos**:
+Além disso, a plataforma sugere automaticamente outras produções que compartilham características semelhantes ao filme selecionado, o que permite que os usuários descubram novos filmes que possam despertar seu interesse a partir de uma produção que já estejam explorando.
 
-- Node.js instalado
-- (Opcional) Banco de dados configurado para armazenamento de dados
+## 🖥️ Como rodar este projeto 🖥️
+
+### Requisitos:
+
+- [Node.js](https://nodejs.org/pt) instalado
+
+### Execução:
 
 1. Clone este repositório:
 
    ```sh
-   git clone https://github.com/seu-repositorio/kino.git
+   git clone https://github.com/portfolio-projetos-dev/kino
    ```
 
 2. Acesse o diretório do projeto:
@@ -43,25 +59,28 @@ Kino é uma plataforma desenvolvida para exibir filmes e autores favoritos. A ap
 
 5. Acesse o projeto em [http://localhost:3000](http://localhost:3000).
 
-## 🗒️ Features do projeto
+## 🗒️ Features do projeto 🗒️
 
-- Exibição de filmes favoritos com detalhes completos
-- Visualização de informações sobre diretores e autores
-- Recomendações personalizadas
-- Interface intuitiva e responsiva
-
-## 💻 Tecnologias usadas no projeto
-
-<div style="display:flex; gap:8px">
-  <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<div style="display: flex; gap: 8px; justify-content:center; margin:15px">
+   <img src=".gitassets/1.png" style="width: 30%;" />
+   <img src=".gitassets/2.png" style="width: 30%;" />
+   <img src=".gitassets/3.png" style="width: 30%;" />
 </div>
- 
-## ⚙️ Sobre o desenvolvimento desse projeto
- 
-Este projeto foi desenvolvido visando separar as camadas de frontend e backend de forma simples, utilizando principalmente **Next.js** com **TypeScript**. A adoção de boas práticas de codificação e a organização das rotas permitem um fácil entendimento e manutenção do código.
- 
-## 💎 Links úteis
- 
+
+- Catálogo com os últimos filmes lançados
+- Informações completas sobre cada produção
+- Ficha técnica detalhada de cada filme
+- Dados sobre direção e aspectos técnicos do filme
+- Informações como ano de lançamento, duração e classificação indicativa
+- Galeria dos atores principais
+- Informações sobre personagens interpretados
+- Mini-biografias e principais trabalhos dos artistas
+- Recomendações de filmes relacionados
+- Interface responsiva e moderna
+
+## 💎 Links úteis 💎
+
+- [The Movie DB](https://www.themoviedb.org)
 - [Next.js](https://nextjs.org/docs)
 - [TypeScript](https://www.typescriptlang.org/docs)
+- [Shadcn](https://ui.shadcn.com)
