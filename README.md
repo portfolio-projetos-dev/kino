@@ -1,7 +1,7 @@
 # 🎬 Kino
 
 <div align="center">
-<img src="./.gitassets/capa.png" width="350" />
+<img src="https://github.com/portfolio-projetos-dev/kino/raw/main/.gitassets/capa.png" width="350" />
 
 <div>
   <img src="https://img.shields.io/github/stars/portfolio-projetos-dev/kino?style=for-the-badge" alt="GitHub stars" />
@@ -62,9 +62,9 @@ Além disso, a plataforma sugere automaticamente outras produções que comparti
 ## 🗒️ Features do projeto 🗒️
 
 <div style="display: flex; gap: 8px; justify-content:center; margin:15px">
-   <img src=".gitassets/1.png" style="width: 30%;" />
-   <img src=".gitassets/2.png" style="width: 30%;" />
-   <img src=".gitassets/3.png" style="width: 30%;" />
+   <img src="https://github.com/portfolio-projetos-dev/kino/raw/main/.gitassets/1.png" style="width: 30%;" />
+   <img src="https://github.com/portfolio-projetos-dev/kino/raw/main/.gitassets/2.png" style="width: 30%;" />
+   <img src="https://github.com/portfolio-projetos-dev/kino/raw/main/.gitassets/3.png" style="width: 30%;" />
 </div>
 
 - Catálogo com os últimos filmes lançados
