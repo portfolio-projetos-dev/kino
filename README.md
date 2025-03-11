@@ -61,12 +61,6 @@ Além disso, a plataforma sugere automaticamente outras produções que comparti
 
 ## 🗒️ Features do projeto 🗒️
 
-<div style="display: flex; gap: 8px; justify-content:center; margin:15px">
-   <img src="https://github.com/portfolio-projetos-dev/kino/raw/main/.gitassets/1.png" style="width: 30%;" />
-   <img src="https://github.com/portfolio-projetos-dev/kino/raw/main/.gitassets/2.png" style="width: 30%;" />
-   <img src="https://github.com/portfolio-projetos-dev/kino/raw/main/.gitassets/3.png" style="width: 30%;" />
-</div>
-
 - Catálogo com os últimos filmes lançados
 - Informações completas sobre cada produção
 - Ficha técnica detalhada de cada filme
@@ -77,6 +71,12 @@ Além disso, a plataforma sugere automaticamente outras produções que comparti
 - Mini-biografias e principais trabalhos dos artistas
 - Recomendações de filmes relacionados
 - Interface responsiva e moderna
+
+![1](https://github.com/portfolio-projetos-dev/kino/raw/main/.gitassets/1.png)
+
+![2](https://github.com/portfolio-projetos-dev/kino/raw/main/.gitassets/2.png)
+
+![3](https://github.com/portfolio-projetos-dev/kino/raw/main/.gitassets/3.png)
 
 ## 💎 Links úteis 💎
 
