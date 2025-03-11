@@ -3,13 +3,13 @@
 <div align="center">
 <img src="https://github.com/portfolio-projetos-dev/kino/raw/main/.gitassets/capa.png" width="350" />
 
-<div data-flex-row>
+<div data-badges>
   <img src="https://img.shields.io/github/stars/portfolio-projetos-dev/kino?style=for-the-badge" alt="GitHub stars" />
   <img src="https://img.shields.io/github/forks/portfolio-projetos-dev/kino?style=for-the-badge" alt="GitHub forks" />
   <img src="https://img.shields.io/github/issues/portfolio-projetos-dev/kino?style=for-the-badge" alt="GitHub issues" />
 </div>
 
-<div data-flex-row>
+<div data-badges>
   <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
