@@ -51,13 +51,17 @@ Além disso, a plataforma sugere automaticamente outras produções que comparti
    npm install
    ```
 
-4. Inicie o servidor (Next.js):
+4. Configure as variáveis de ambiente:
+
+   Será necessário criar um arquivo `.env` com as mesmas variáveis de ambiente listadas no arquivo `.env.example` na pasta raiz da aplicação e preencher esse arquivo com as variáveis de ambiente correspondentes.
+
+5. Inicie o servidor (Next.js):
 
    ```sh
    npm run dev
    ```
 
-5. Acesse o projeto em [http://localhost:3000](http://localhost:3000).
+6. Acesse o projeto em [http://localhost:3000](http://localhost:3000).
 
 ## 🗒️ Features do projeto 🗒️
 
@@ -72,11 +76,11 @@ Além disso, a plataforma sugere automaticamente outras produções que comparti
 - Recomendações de filmes relacionados
 - Interface responsiva e moderna
 
-![1](https://github.com/portfolio-projetos-dev/kino/raw/main/.gitassets/1.png)
+![](https://github.com/portfolio-projetos-dev/kino/raw/main/.gitassets/1.png)
 
-![2](https://github.com/portfolio-projetos-dev/kino/raw/main/.gitassets/2.png)
+![](https://github.com/portfolio-projetos-dev/kino/raw/main/.gitassets/2.png)
 
-![3](https://github.com/portfolio-projetos-dev/kino/raw/main/.gitassets/3.png)
+![](https://github.com/portfolio-projetos-dev/kino/raw/main/.gitassets/3.png)
 
 ## 💎 Links úteis 💎
 
